@@ -509,7 +509,7 @@ The functions performed at the client side are:
 <dt>1951
 <dd>Univac presented <i>the magnetic tape</i> as a means to store data.
 	(Before that punched cards were used).
-	<p align="center"><img border="0" src="images/univac.jpg"></p>
+	<p align="center"><img border="0" src="https://gakko.pjwstk.edu.pl/materialy/2398/lec/wyklad01/images/univac.jpg"></p>
 <dt>1956
 <dd>IBM introduced <i>the magnetic hard drive</i>. 
 <dt>1961
@@ -519,7 +519,7 @@ The functions performed at the client side are:
 <dd>Information Management System IMS (IBM) - <i>the hierarchical data model</i>.
 <dt>1970
 <dd><i>Edgar Codd (1924-2003)</i>, IBM &#8211, <i>the relational data model</i>.
- 	<p align="center"><img border="0" src="images/Codd.jpg"></p>
+ 	<p align="center"><img border="0" src="https://gakko.pjwstk.edu.pl/materialy/2398/lec/wyklad01/images/Codd.jpg"></p>
 <dt>1971
 <dd>CODASYL, the standard for the network data model.
 <dt>1976
