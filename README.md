@@ -1,14 +1,5 @@
 # Lecture1
 
-
-<html>
-<head>
-  <title>Relational database</title>
-  <link rel=stylesheet type="text/css" href="../styl.css">
-  <script language="JavaScript" src="../skrypty.js" type="text/javascript"></script>
-</head>
-
-<body>
 <a name="poczatek"/>
 <h2 align="center">Lecture 1</h2>
 
@@ -646,5 +637,3 @@ data model</i>.  We described the following concepts of this model:
 
 <hr><i><font size="1">Page prepared in Polish by Lech Banachowski and
 translated into English by Krzysztof Stencel.</font></i>
-
-</body></html>
