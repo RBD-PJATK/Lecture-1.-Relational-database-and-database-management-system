@@ -1,9 +1,4 @@
-# Lecture1
-
-<a name="poczatek"/>
-<h2 align="center">Lecture 1</h2>
-
-<h2 align="center"><i>Relational database and database management system</i></h2>
+# Lecture 1. Relational database and database management system
 
 <hr><h3>Abstract</h3>
 
