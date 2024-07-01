@@ -1,6 +1,10 @@
 # Lecture 1. Relational database and database management system
 
-<hr><h3>Abstract</h3>
+https://gakko.pjwstk.edu.pl/materialy/2398/lec/index.html
+
+https://gakko.pjwstk.edu.pl/edux/7679
+
+<h3>Abstract</h3>
 
 <p>In lecture 1 we explain the fundamental concepts of databases.
 In particular we present <i>the relational data model</i>. Modern commercial
